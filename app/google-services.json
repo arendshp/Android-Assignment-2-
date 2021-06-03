@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "409877713670",
+    "project_id": "shopping-diary-8b130",
+    "storage_bucket": "shopping-diary-8b130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409877713670:android:6780b7e4e8b31aa6d2c487",
+        "android_client_info": {
+          "package_name": "arends.com.shoppingdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409877713670-0l7dufaoshgqf33kcaf0jco8a0jvk4u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVp4yIHBElnDFL4xRBUTtXcSd_uq8Wxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409877713670-0l7dufaoshgqf33kcaf0jco8a0jvk4u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409877713670:android:2c5fa44ce4e9178cd2c487",
+        "android_client_info": {
+          "package_name": "com.arends.shoppingdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409877713670-0l7dufaoshgqf33kcaf0jco8a0jvk4u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVp4yIHBElnDFL4xRBUTtXcSd_uq8Wxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409877713670-0l7dufaoshgqf33kcaf0jco8a0jvk4u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
